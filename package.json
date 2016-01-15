@@ -1,0 +1,25 @@
+{
+  "name": "starwars-names",
+  "version": "0.0.0",
+  "description": "get random Starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawelpa/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "starwars"
+  ],
+  "author": "Paweł Pasternak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pawelpa/starwars-names/issues"
+  },
+  "dependencies": {
+    "unique-random-array": "~1.0.0"
+  }
+}
